@@ -28,19 +28,19 @@ Ich habe mich stattdessen fuer ein Informatik-Studium entschieden, um meine tech
 ---
 
 **Ansicht 1: Hero & Intro**
-![Hero Sektion der BIOMIO Seite](X - 1.png)
+![Hero Sektion der BIOMIO Seite](1.png)
 
 ---
 
 **Ansicht 2: Produkt-Praesentation**
-![Produkt-Sektion der BIOMIO Seite](X - 2.png)
+![Produkt-Sektion der BIOMIO Seite](2.png)
 
 ---
 
 **Ansicht 3: Ueber Uns & Zutaten**
-![Ueber-Uns Sektion der BIOMIO Seite](X - 3.png)
+![Ueber-Uns Sektion der BIOMIO Seite](3.png)
 
 ---
 
 **Ansicht 4: Kontakt & Oeffnungszeiten**
-![Kontakt-Sektion der BIOMIO Seite](X - 4.png)
+![Kontakt-Sektion der BIOMIO Seite](4.png)
