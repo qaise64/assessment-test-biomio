@@ -19,7 +19,7 @@ Die Aufgabe war ein zweitaegiges Assessment-Test unter strengen Pruefungsbedingu
 
 Aufgrund der Gesamtleistung in diesem Assessment-Test (besonders des Designs von Tag 1) wurde mir ein Ausbildungsplatz als Mediengestalter angeboten.
 
-Ich habe mich stattdessen fuer ein Informatik-Studium entschieden, um meine technischen Faehigkeiten im Software Engineering zu vertiefen. (Kurz darauf wurde mir auch eine Junior-Stelle als UX/UI Designer bei CGI angeboten, die ich aus demselben Grund ebenfalls nicht annahm).
+Ich habe mich stattdessen fuer ein Informatik-Studium entschieden, um meine technischen Faehigkeiten im Software Engineering zu vertiefen. (Kurz darauf wurde mir auch eine Stelle als UX/UI Designer bei CGI angeboten, die ich aus demselben Grund ebenfalls nicht annahm).
 
 ## Das Figma-Design (Tag 1)
 
