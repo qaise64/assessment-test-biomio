@@ -1,6 +1,6 @@
 # Assessment-Test: BIOMIO Eismanufaktur (UI-Design)
 
-Hallo! Dies ist ein UI-Design, das ich als Assessment-Test (Probeaufgabe) fuer die Firma wwwe.de waehrend meiner ITA-Ausbildung am BTI Neuss absolviert habe.
+Dies ist ein UI-Design, das ich als Assessment-Test (Probeaufgabe) fuer die Firma wwwe.de waehrend meiner ITA-Ausbildung am BTI Neuss absolviert habe.
 
 ## Projekt-Kontext & Herausforderung
 
